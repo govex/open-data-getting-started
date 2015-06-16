@@ -1,4 +1,4 @@
-#Introduction
+# Open Data Getting Started Guide
 
 Cities collect and store large amounts of data valuable to the public. Until recently, most data was locked away in filing cabinets and only released in response to information requests. An open data program makes city data easily accessible to anyone at any time through the internet.
 
