@@ -1,0 +1,8 @@
+# Selecting the Right Technology
+
+At their core, open data programs leverage technology to make data easy to obtain. There are a wide array of options, and significant technology changes may be implemented as the program evolves. These choices should be made by the governance committee, and strongly influenced by the Chief Information, Technology, or Data Officer. In general, cities tend to start simple by leveraging their existing websites, and then move towards advanced platforms offered by third-party companies.
+
+
+* **Simple open data sites** usually consist of a single webpage that contains a list of datasets. At a minimum the list includes dataset titles, descriptions, and links to downloadable data files stored elsewhere. They are often published as pages or sections of pre-existing city websites. Sites like these are easy to maintain and are highly suitable for a quick launch, but they lack features that become important as the volume of public data increases.
+
+* **Complex open data portals** usually provide a variety of ways to interact with both the catalog of available data and the data itself. They are often separate technology solutions, provided by companies who specialize in open data management. While some companies or products can be deployed using the city’s own technology infrastructure, nearly all of them have cloud-based solutions designed to grow as the program does, and they will automatically deliver new features to cities and their data consumers as the open data industry evolves.
