@@ -3,7 +3,7 @@
 * [introduction](README.md)
 * [Introduction](summary.md)
 * [What is Open Data](what-is-open-data.md)
-* [Launching an Open Data Program](launching.md)
+* [Launching an Open Data Program](launching-an-open-data-program.md)
 * [Gathering a Team](gathering-a-team.md)
 * [Developing an Open Data Policy](developing-an-open-data-policy.md)
 * [Governance Committee](governance-committee.md)
