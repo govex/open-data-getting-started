@@ -12,3 +12,5 @@
 * [Engaging the Community](engaging-the-community.md)
 * [Continuous Improvement](continuous-improvement.md)
 * [Conclusion](conclusion.md)
+* [Appendix A: Governance Committee Sample Meeting Agenda](appendix-a.md)
+* [Appendix B: Governance Committee Sample Follow Up Memo](appendix-b.md)
