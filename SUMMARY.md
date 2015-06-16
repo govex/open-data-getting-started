@@ -1,7 +1,6 @@
 # Summary
 
-* [introduction](README.md)
-* [Introduction](summary.md)
+* [Introduction](README.md)
 * [What is Open Data](what-is-open-data.md)
 * [Launching an Open Data Program](launching-an-open-data-program.md)
 * [Gathering a Team](gathering-a-team.md)
