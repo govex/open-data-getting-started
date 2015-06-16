@@ -6,4 +6,5 @@
 * [Launching an Open Data Program](launching.md)
 * [Gathering a Team](gathering-a-team.md)
 * [Developing an Open Data Policy](developing-an-open-data-policy.md)
+* [Governance Committee](governance-committee.md)
 
