@@ -1,6 +1,5 @@
 # What is Open Data?
 
-
 **Data** are electronic records stored in computer systems. In the simplest terms, data are lists of things such as requests for service, inventories, or incidents, which include helpful details such as dates, locations, images, video, and more.
 
 **Open data** makes these electronic records accessible in whole or in part to the public. This practice is considered proactive disclosure making information available without being requested. While industry experts often refer to the [Eight Principles of Open Data](http://opengovdata.org/), these four are the most important:
