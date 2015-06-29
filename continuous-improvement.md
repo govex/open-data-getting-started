@@ -11,4 +11,4 @@ Just as measurement is the foundation of performance management, it is equally i
 
 ## Evolving the Program
 
-Open data programs continually evolve as public expectations, value of data, and technologies change. The program may have started with a simple list of data files, but there are a variety of ways to make it easier for the city’s data to be found, used, and valued. In fact, there are so many ways to improve the program over time that the Center wrote a whole other guide for it. Explore the Johns Hopkins Center for Government Excellence’s Open Data Long-Term Guide for more information.
+Open data programs continually evolve as public expectations, value of data, and technologies change. The program may have started with a simple list of data files, but there are a variety of ways to make it easier for the city’s data to be found, used, and valued. In fact, there are so many ways to improve the program over time that the Center wrote a whole other guide for it. Explore the Johns Hopkins Center for Government Excellence’s Open Data Long-Term Guide (coming soon) for more information.
