@@ -9,3 +9,7 @@ Although it isn’t mandatory, launching a publicly accessible open data portal 
 ## Official Site Launch
 
 Formally launching an open data portal requires the voice of the Mayor. This step is largely a communications and marketing effort. Although an open data launch announcement is powerful by itself, its reach can be dramatically magnified when tied to other policies, initiatives, or even local events. Cities often use a wide array of media channels to get the word out, including a press conference, press release, email outreach, website homepage banner, social media messaging, and more. An in-person announcement by the Mayor is often organized through local technology sector events.
+
+## Public Engagement
+
+Open data signals the city's openness to collaboration on important city problems and can represent a new mode of public participation in city problem identification and decision-making. Beginning an open data program with visible and authentic public involvement improves the momentum for open data both inside and outside of government. For these reasons, it's useful to begin thinking about how to involve members of the public in the open data program from the earliest stages of your open data release. See [Engaging the Community](open-data-getting-started/engaging-the-community.md) for more.
