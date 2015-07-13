@@ -1,7 +1,7 @@
 # Developing an Open Data Policy
 
 Open Data policies are a critical foundation for effective open data programs. Generally, policies are developed on two levels:
-* An **executive order or city ordinance** (or "law") creates a broad legal framework including open data definitions, scope of participation, high-level timelines, roles, a governance plan, and funding allocations;
+* An **executive order** or **city ordinance** (or "law") creates a broad legal framework including open data definitions, scope of participation, high-level timelines, roles, a governance plan, and funding allocations;
 * **Governance documents** detail how each aspect of the law will be accomplished, including prioritizing data for release, keeping public data up to date, and engaging with the public engagement. Note that this is not the same as a project plan, which may also be needed.
 
 Although a small team of city staff will likely develop these documents, feedback should be obtained from a broad set of stakeholders both within and outside city government.
