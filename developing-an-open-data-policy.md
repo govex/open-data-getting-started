@@ -10,12 +10,12 @@ The Sunlight Foundation provides [guidelines and assistance for developing open 
 
 Executive orders and city ordinances generally:
 * establish broad program goals
-* establish definitions (e.g. “data,” “open data,” etc.)
-* define program scope (e.g. government branches, departments, etc.)
+* define terms (e.g. “data,” “open data,” etc.)
+* specify program scope (e.g. government branches, departments, etc.)
 * assemble a governance committee and define member roles (see [Governance Committee](governance-committee.md))
 * identify governance documents to be developed (see below)
-* define a high-level schedule (for developing the governance plan, launching a site, and reaching data publishing goals)
-* require the creation of a central, online catalog to help the public find data
+* outline a high-level schedule (for developing the governance plan, launching a site, and reaching data publishing goals)
+* create of a central, online catalog to help the public find data
 * require public input for each of the above, as appropriate
 
 Governance documents generally include:
