@@ -15,7 +15,7 @@ The governance committee is usually composed of leaders and managers who will be
 * Community members, such as open data advocates, nonprofit advocates or service providers, or businesses that rely on open data. 
 * As needed presenters or other guests
 
-> Community members can be key in providing an external perspective; checking the priorities of the governmental members; and communicating the committee's work back to the public at large. Community members must be empowered to speak candidly
+> Community members can be key in providing an external perspective; checking the priorities of the governmental committee members; and communicating the committee's work back to the public at large. Community members must be empowered to speak candidly and confidently, and know that their input as valued with equal weight.
 
 ## Meetings
 
