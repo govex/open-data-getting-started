@@ -1,6 +1,6 @@
 # Engaging the Community
 
-Simply launching an open data portal isn’t valuable if sustainable communities aren’t built around it. It is important to engage with these communities to help them understand the data the city makes public, listen to their changing needs, and encourage them to help solve civic challenges. The city’s open data program needs a person, often called a data evangelist, who helps build the connections between internal data suppliers and external data consumers.The following section describes how to accomplish this.
+Simply launching an open data portal is not valuable if sustainable communities are not built around it. It is important to engage with these communities to help them understand the data the city makes public, listen to their changing needs, and encourage them to help solve civic challenges. The city’s open data program needs a person, often called a data evangelist, who helps build the connections between internal data suppliers and external data consumers. The following section describes how to accomplish this.
 
 ##Raising Awareness
 
