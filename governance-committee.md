@@ -21,7 +21,7 @@ The governance committee is usually composed of leaders and managers who will be
 
 During the formative stages of the open data program, the governance committee meets bi-weekly, as frequent reviews of the developing governance plans and implementation progress are needed. As the program matures, the committee can elect to reduce the meeting frequency to review ongoing progress and address outstanding concerns, and may designate subcommittees to achieve particular regular tasks (e.g., reviewing proposed datasets for sensitivity.)
 
-> An Open Data Governance Committee is charged with promoting a city's open data policy, which may include:
+> Agendas for Open Data Governance Committee meetings should bolster the Committee's charge to promote the city's open data policy, which may include:
 * providing guidance and policy recommendations and, when appropriate, recommending additional legislation or regulations for:
     * procedures, standards, and other deliverables for open data, including for open data portals
     * promotion, advertising, and marketing of open data
