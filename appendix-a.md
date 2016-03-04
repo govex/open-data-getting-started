@@ -1,6 +1,6 @@
 # Appendix A: Governance Committee Sample Meeting Agenda
 
-[City Logo]
+[City Logo] 
  
 ## Open Data Governance Council Meeting
 
