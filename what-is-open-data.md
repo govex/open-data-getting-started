@@ -1,4 +1,4 @@
-# What is Open Data?
+# What Is Open Data?
 
 **Data** are electronic records stored in computer systems. In the simplest terms, data are lists of things such as requests for service, inventories, or incidents, which include helpful details such as dates, locations, images, video, and more.
 
