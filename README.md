@@ -1,4 +1,4 @@
-# Open Data Getting Started Guide
+# Introduction
 
 Cities collect and store large amounts of data that is valuable to the public. Until recently, most data was locked away in filing cabinets and only released in response to information requests. An open data program makes city data easily accessible to anyone, at any time, through the internet.
 
@@ -10,7 +10,6 @@ Businesses, residents, visitors, and civil servants expect to have readily avail
 
 By collecting and sharing data, a city can empower constituents to use data to address community concerns and help its own civil servants find innovative solutions to key challenges. Consistently sharing and using data to act on community interests can also lead to a culture of evidence-based decision-making in which data becomes essential for good governance.
 
-To assist cities in implementing open data programs in their own communities, the [Center for Government Excellence at Johns Hopkins University](http://centerforgov.org), a partner in the [What Works Cities initiative](http://www.whatworkscities.org), has created this getting started guide. By learning from the experiences of other cities and following best practices developed by the Center, cities will gain a greater understanding of open data and be well on their way to launching their own open data program.
+To assist cities in implementing open data programs in their own communities, the [Center for Government Excellence at Johns Hopkins University](https://govex.jhu.edu/), a partner in the [What Works Cities initiative](http://www.whatworkscities.org), has created this getting started guide. By learning from the experiences of other cities and following best practices developed by the Center, cities will gain a greater understanding of open data and be well on their way to launching their own open data program.
 
-<img src=https://raw.githubusercontent.com/govex/govex.github.io/master/images/WWC_ResourceStamp_web.png width=250 height=250 />
-
+![](https://raw.githubusercontent.com/govex/govex.github.io/master/images/WWC_ResourceStamp_web.png)
