@@ -6,5 +6,5 @@ This guide is designed for mid-sized U.S. cities which aim to start an open data
 * [Open Data Playbook](https://codeforamerica.org/programs/) - Code for America
 * [Open Data Handbook](http://opendatahandbook.org/) - Open Knowledge Foundation
 * [Open Data Guide](http://opendata.guide/) - Mark Headd
-* [Open Data Field Guide](http://www.socrata.com/open-data-field-guide/) - Socrata
+* [Data and Insights](https://dev.socrata.com/)- Tyler (formerly Socrata)
 
