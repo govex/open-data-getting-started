@@ -16,7 +16,7 @@ The following list provides a description of each key player. Depending on a cit
 
 * **Project Manager**: Coordinates the open data program; plans and oversees data releases; plans daily activities for the team members; reports on progress to program sponsors.
 * **Data Evangelist**: Works with the public and important partners to foster the consumption of data; handles questions about data on behalf of data owners; presents open data at appropriate community events; provides technical assistance to data consumers.
-* **Data Owner(s)**: Usually the person or team in an agency who uses the data to carry out their daily business, data owners work with the project manager, data analysts (see below,) and others to ensure the publicly released data is accurate, well documented, and up to date.
+* **Data Owner(s)**: Usually the person or team in an agency who uses the data to carry out their daily business, data owners work with the project manager, data analysts (see below ) and others to ensure the publicly released data is accurate, well documented, and up-to-date.
 * **Data Analyst(s)**: Reviews source data systems; recommends specific data elements for release approval; helps develop public documentation; handles manual data publishing if needed.
 * **Programming or Database Engineers**: Build and configure the tools needed to routinely copy data from city technology systems to the open data website.
 * **Internal Users**: Agency staff who are important consumers of open data and use data to make decisions, streamline processes, and improve operations; offer perspectives on using data for cross-agency and cross-organizational collaboration.
