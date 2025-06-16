@@ -2,7 +2,7 @@
 
 **Data** are electronic records stored in computer systems. In the simplest terms, data are lists of things such as requests for service, inventories, or incidents, which include helpful details such as dates, locations, images, video, and more.
 
-**Open data** makes these electronic records accessible in whole or in part to the public. This practice is considered proactive disclosure - making information available without it being requested. While industry experts often refer to the [ Principles of Open Data](https://public.resource.org/8_principles.html), it is helpful to initially focus on the following elements:
+**Open data** makes these electronic records accessible in whole or in part to the public. This practice is considered proactive disclosure - making information available without it being requested. While industry experts often refer to the [ 8 Principles of Open Data](https://public.resource.org/8_principles.html), it is helpful to initially focus on the following elements:
 
 * Open data is **online**. Cities proactively provide open data through the internet, giving the public the ability to find and use open data without waiting for a response or approval.
 * Open data is **free**. Cities do not require payment from anyone to obtain open data.
