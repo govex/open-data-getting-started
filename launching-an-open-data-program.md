@@ -4,7 +4,7 @@ The following list is an overview of the steps a city should take to implement a
 
 1. Gather a team
 2. Develop an open data policy
-3. Apply for Open Licenses
+3. Governance Committee
 4. Identify data for release
 5. Ensure access is user-friendly by creating a central registry
 6. Launch and market the open data program
